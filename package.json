@@ -50,7 +50,7 @@
     "@ionic-native/device-motion": "^5.19.1",
     "@ionic-native/diagnostic": "^5.7.0",
     "@ionic/angular": "5.5.2",
-    "@ionic/core": "^5.5.4",
+    "@ionic/core": "^5.9.3",
     "@ionic/storage": "2.2.0",
     "@ngrx/component-store": "^10.1.2",
     "@ngrx/effects": "^10.1.2",
