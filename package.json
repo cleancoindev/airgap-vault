@@ -70,7 +70,7 @@
     "cordova.plugins.diagnostic": "4.0.10",
     "core-js": "^2.5.4",
     "js-sha3": "^0.8.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "myetherwallet-blockies": "^0.1.1",
     "ngx-moment": "^5.0.0",
     "rxjs": "~6.5.3",
