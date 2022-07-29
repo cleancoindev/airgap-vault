@@ -67,7 +67,7 @@
     "cordova-plugin-device-motion": "^2.0.1",
     "cordova-plugin-qrscanner": "3.0.1",
     "cordova-sqlite-storage": "^4.0.0",
-    "cordova.plugins.diagnostic": "4.0.10",
+    "cordova.plugins.diagnostic": "7.0.0",
     "core-js": "^2.5.4",
     "js-sha3": "^0.8.0",
     "moment": "^2.27.0",
